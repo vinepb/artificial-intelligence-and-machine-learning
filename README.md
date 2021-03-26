@@ -9,6 +9,8 @@ from berkeley cs188 project 3 (available at https://inst.eecs.berkeley.edu/~cs18
 simple function maximizing using genectic algorithm
 ### simple gradient descent
 simple polynomial regression using gradient descent
+### fuzzy logic
+simple fuzzy logic implementation on matlab
 
 ## future projects
 ### simple neural network
