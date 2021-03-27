@@ -14,4 +14,3 @@ simple fuzzy logic implementation on matlab
 
 ## future projects
 ### simple neural network
-### simple tinyML
