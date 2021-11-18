@@ -6,7 +6,7 @@ from berkeley cs188 project 1 (available at https://inst.eecs.berkeley.edu/~cs18
 ### pacman reinforcement
 from berkeley cs188 project 3 (available at https://inst.eecs.berkeley.edu/~cs188/sp20/project3/)
 ### simple genectic algorithm
-simple function maximizing using genectic algorithm
+simple function maximization using genectic algorithm
 ### simple gradient descent
 simple polynomial regression using gradient descent
 ### fuzzy logic
